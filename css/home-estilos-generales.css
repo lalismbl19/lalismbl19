@@ -16,6 +16,10 @@ nav li{
 nav li ul{
 	position: absolute;
 }
+
+.encabezado img{
+	width: 100%;
+}
 nav a{
 	color: #14041D;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
@@ -42,7 +46,7 @@ nav li li{
 
 
 .encabezado{
-	height:250px;
+	height:auto;
 	width:100%;
 	background-color: #14041d;
 	text-align: center;
@@ -51,7 +55,7 @@ nav li li{
 	width: 100%;
 	height: 50px;
 	background-color: #F6E1Be;
-	padding-left: 30%;
+	padding-left: 0%;
 	padding-top: 1px;
 }
 .boton{
